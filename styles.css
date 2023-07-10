@@ -1,1 +1,14 @@
 
+*{
+    margin: 0px;
+}
+.parent{
+    height: 800px;
+    display: flex;
+}
+.title
+
+img{
+ width: 630px;
+ height: 800px;
+}
