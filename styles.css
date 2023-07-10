@@ -110,9 +110,29 @@ p{
     font-size: 20px ;
 
  }
-
+/* section4*/
  .section4{
      text-align: center;
      margin-top: 80px;
+ }
+
+ .title4{
+     font-size: 40px;
+     font-weight: bold;
+ }
+ .pre4{
+     font-size: 18px;
+     font-weight: 400;
+     margin: 20px;
+ }
+ .benner{
+     display: flex;
+     margin-left: 240px;
+     margin-right: 240px;
+     justify-content: space-between;
+ }
+ .png{
+     width: 342px;
+     height: 396px;
  }
  
