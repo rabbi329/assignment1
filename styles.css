@@ -135,4 +135,17 @@ p{
      width: 342px;
      height: 396px;
  }
+ /*section5*/
+ .section5{
+     text-align: center;
+     margin-top:200px
+ }
+ .int{
+     height: 450px;
+     width: 1440px;
+     background-image: url(./image/Rectangle\ 9.png);
+     display: flex;
+     justify-content: space-around;
+     margin: 20px 240px 20px 240px;
+ }
  
