@@ -2,11 +2,14 @@
 *{
     margin: 0px;
 }
+.head{
+    margin-left: 240px;
+}
  
 .parent{
-    
+    width: 1920px;
+    height: 850px;
     display: flex;
-    margin: 20px;
     justify-content: space-between;
     align-items: center;
     
@@ -17,6 +20,10 @@
     margin-left: 240px;
 
 }
+.img{
+  align-items: right;
+}
+
 
 .discription{
     font-size: 18px;
@@ -36,9 +43,8 @@
 
 }
 
-.img{
-    
-}
+
+
 /*section 2*/
 .title2{
     text-align: center;
@@ -87,7 +93,8 @@ p{
      justify-content: space-around;
      margin-top: 60px;
      align-items: center;
-     padding-left: 30px;
+     padding-left: 24px;
+     box-shadow: 10px;
  }
 
  .title3{
@@ -146,8 +153,9 @@ p{
     display: flex;
     background-position: center;
     align-items: center;
-    margin-top: 50px;
-    margin-left: 240px;
+    margin-top: 100px;
+    margin-left: 480px;
+
 }
 .title5{
     text-align: center;
@@ -168,7 +176,8 @@ p{
 /*section6*/
 
 footer{
-    margin: 20px;
+    margin-left: 240px;
+    margin-right: 240px;
     margin-top: 100px;
 }
     
@@ -183,10 +192,12 @@ footer{
     display: flex;
     background-position: center;
     align-items: center;
-    margin: 20px;
+    justify-content: center;
+    margin-left: auto;
+
 }
 .title6{
-    margin-left: 750px;
+    margin: auto;
     color: #FFF;
     font-size: 40px;
     font-style: italic;
@@ -195,5 +206,5 @@ footer{
 .pre6{
     margin-top: 30px;
     color: #FFF;
-    margin-left: 750px;
+    margin-left: auto;
 }
