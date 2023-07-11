@@ -136,16 +136,45 @@ p{
      height: 396px;
  }
  /*section5*/
- .section5{
-     text-align: center;
-     margin-top:200px
- }
- .int{
-     height: 450px;
-     width: 1440px;
-     background-image: url(./image/Rectangle\ 9.png);
-     display: flex;
-     justify-content: space-around;
-     margin: 20px 240px 20px 240px;
- }
- 
+.section5{
+    width: 1440px;
+    height: 450px;
+    background-image: url(./image/Rectangle\ 9.png);
+    margin-top: 100px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.title5{
+    text-align: center;
+    font-size: 40px;
+}
+.int-form{
+    margin-left: 150px;
+    border-radius: 20px solid red;
+    border: 30px;
+    padding: 10;
+}
+
+
+
+/*section6*/
+
+footer{
+    width: 1922px;
+    height: 449px;
+    background-color: black;
+    background-size: cover
+   
+}
+    
+.section6{
+   
+    color: #FFF;
+    
+}
+     
+.title6{
+    text-align: center;
+    margin-top: 50px;
+}
+
